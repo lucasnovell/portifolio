@@ -16,7 +16,7 @@
     height: 2rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('assets/img/icons/ellipsis-icon.svg');
+    background-image: url('/assets/img/icons/ellipsis-icon.svg');
 }
 
 .header .photo{
@@ -57,19 +57,19 @@
 }
 
 .information .job::before {
-    background-image: url('assets/img/icons/user-icon.svg');
+    background-image: url('/assets/img/icons/user-icon.svg');
 }
 
 .information .location::before {
-    background-image: url('assets/img/icons/location-icon.svg');
+    background-image: url('/assets/img/icons/location-icon.svg');
 }
 
 .information .phone::before {
-    background-image: url('assets/img/icons/phone-icon.svg');
+    background-image: url('/assets/img/icons/phone-icon.svg');
 }
 
 .information .email::before {
-    background-image: url('assets/img/icons/email-icon.svg');
+    background-image: url('/assets/img/icons/email-icon.svg');
 }
 
 
