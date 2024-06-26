@@ -9,15 +9,15 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/lucasnovell/portifolio-2024/master/data/imgs/js.png?token=GHSAT0AAAAAACTFDFGYGPJY6HBOTTQW2TKAZT4RHWQ"
+        "logo": "https://raw.githubusercontent.com/lucasnovell/portifolio-2024/master/data/imgs/js.png"
       },
       {
         "name": "CSS3",
-        "logo": "https://raw.githubusercontent.com/lucasnovell/portifolio-2024/master/data/imgs/css.png?token=GHSAT0AAAAAACTFDFGZBMJ4347SKKDCQOHGZT4RG4Q"
+        "logo": "https://raw.githubusercontent.com/lucasnovell/portifolio-2024/master/data/imgs/css.png"
       },
       {
         "name": "HTML5",
-        "logo": "https://raw.githubusercontent.com/lucasnovell/portifolio-2024/master/data/imgs/html.png?token=GHSAT0AAAAAACTFDFGYVDIYPW6AAHWGHC6AZT4RHLA"
+        "logo": "https://raw.githubusercontent.com/lucasnovell/portifolio-2024/master/data/imgs/html.png"
       }
     ],
     "softSkills": [
