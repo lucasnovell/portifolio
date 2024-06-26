@@ -9,15 +9,15 @@
     "hardSkills": [
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/lucasnovell/portifolio-2024/master/data/imgs/js.png?token=GHSAT0AAAAAACTFDFGYC2SJYUXYT3J7TBRSZT4QYCQ"
+        "logo": "https://raw.githubusercontent.com/lucasnovell/portifolio-2024/master/data/imgs/js.png?token=GHSAT0AAAAAACTFDFGYGPJY6HBOTTQW2TKAZT4RHWQ"
       },
       {
         "name": "CSS3",
-        "logo": "https://raw.githubusercontent.com/lucasnovell/portifolio-2024/master/data/imgs/css.png?token=GHSAT0AAAAAACTFDFGYCXQZA2OUSJNAMK64ZT4QYNA"
+        "logo": "https://raw.githubusercontent.com/lucasnovell/portifolio-2024/master/data/imgs/css.png?token=GHSAT0AAAAAACTFDFGZBMJ4347SKKDCQOHGZT4RG4Q"
       },
       {
         "name": "HTML5",
-        "logo": "https://raw.githubusercontent.com/lucasnovell/portifolio-2024/master/data/imgs/html.png?token=GHSAT0AAAAAACTFDFGZTN2CWXGIUMQKFIMWZT4QYVA"
+        "logo": "https://raw.githubusercontent.com/lucasnovell/portifolio-2024/master/data/imgs/html.png?token=GHSAT0AAAAAACTFDFGYVDIYPW6AAHWGHC6AZT4RHLA"
       }
     ],
     "softSkills": [
@@ -28,101 +28,32 @@
       "Organização"
     ]
   },
-  "idiomas": [
+  "languages": [
+    "Português-BR",
+    "Inglês (intermediário)"
+  ],
+  "projects": [
     {
-      "nome": "Português",
-      "nivel": "Nativo"
+      "name": "Pokedex feita com PokeApi",
+      "url": "https://github.com/lucasnovell/js-developer-pokemon-stats",
+      "github": true
     },
     {
-      "nome": "Inglês",
-      "nivel": "Intermediário"
+      "name": "YuGiOh-JoKenPo",
+      "url": "https://github.com/lucasnovell/YuGiOh-JoKenPo-edition",
+      "github": true
     },
     {
-      "nome": "Espanhol",
-      "nivel": "Básico"
+      "name": "Landing Page Feita com HTML, CSS e JavaScript",
+      "url": "https://github.com/lucasnovell/DoctorCare",
+      "github": true
     }
   ],
-  "educacao": [
+  "professionalExperience": [
     {
-      "nome": "dio.me",
-      "descricao": "Aprendizado contínuo na maior plataforma de educação aberta da América Latina.",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "2019",
-        "fim": "Atualmente"
-      },
-      "certificados": [
-        {
-          "nome": "Formação: Blockchain Specialist (25h)",
-          "link": "https://www.dio.me/certificate/28601B02"
-        },
-        {
-          "nome": "Curso: Desenvolvimento Mobile Nativo Para Android",
-          "link": "https://www.dio.me/certificate/07041B99"
-        },
-        {
-          "nome": "Curso: Componentes, Layouts e UI/UX Em Apps Android",
-          "link": "https://www.dio.me/certificate/F12AC30B"
-        },
-        {
-          "nome": "Curso: Java e Kotlin Juntos!? Construindo Apps Android",
-          "link": "https://www.dio.me/certificate/3FB20BF1"
-        },
-        {
-          "nome": "Curso: Explorando o Firebase Para Apps Android Resiliente",
-          "link": "https://www.dio.me/certificate/BA099F34"
-        }
-      ]
-    },
-    {
-      "nome": "Doutorado em Engenharia de Software",
-      "descricao": "Uma Infraestrutura de Apoio ao Ensino e Aprendizagem de Línguas de Sinais",
-      "instituicao": "Universidade de São Paulo (USP)",
-      "periodo": {
-        "inicio": "2018",
-        "fim": "Atualmente"
-      }
-    },
-    {
-      "nome": "Mestrado em Engenharia de Software",
-      "descricao": "Estudo e Definição de Uma Linha de Produtos de Software Para o Desenvolvimento de Aplicações Educacionais Moveis",
-      "instituicao": "Universidade de São Paulo (USP)",
-      "periodo": {
-        "inicio": "2012",
-        "fim": "2015"
-      }
-    },
-    {
-      "nome": "Bacharelado em Engenharia de Computação",
-      "descricao": "",
-      "instituicao": "Universidade de Araraquara (UNIARA)",
-      "periodo": {
-        "inicio": "2007",
-        "fim": "2011"
-      }
-    }
-  ],
-  "portfolio": [
-    {
-      "nome": "Crie o seu NFT de Pokémon com Blockchain (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/formacao-blockchain-dio",
-      "certificado": "https://www.dio.me/certificate/34F1FBA1"
-    },
-    {
-      "nome": "App Nativo Sobre Futebol Feminino com Android Jetpack e Java (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/soccer-news-app",
-      "certificado": "https://www.dio.me/certificate/9A5090FC"
-    }
-  ],
-  "experiencias": [
-    {
-      "nome": "Education Tech Lead ",
-      "descricao": "",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "03/2021",
-        "fim": "Atualmente"
-      }
+      "name": "Freelance Desenvolvimento de sites / Studio34Digital",
+      "period": "Mar 2022 - Dez 2023",
+      "description": "Responsável por fazer programação em HTML e CSS de landing pages e desenvolvimento de e-commerce pelo Wordpress."
     }
   ]
 }
