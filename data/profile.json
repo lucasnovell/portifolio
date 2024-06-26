@@ -49,15 +49,11 @@
       "github": true
     }
   ],
-  "experiencias": [
+  "professionalExperience": [
     {
-      "nome": "Education Tech Lead ",
-      "descricao": "",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "03/2021",
-        "fim": "Atualmente"
-      }
+      "name": "Freelance Desenvolvimento de sites / Studio34Digital",
+      "period": "Mar 2022 - Dez 2023",
+      "description": "Responsável por fazer programação em HTML e CSS de landing pages e desenvolvimento de e-commerce pelo Wordpress."
     }
   ]
 }
